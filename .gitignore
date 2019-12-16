@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+[user]
+    name = CaoPeng-kk
+    email = 729575125@qq.com
